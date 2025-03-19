@@ -37,7 +37,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         React App
+         Andrew Altmann, Oryem Kilama
         </a>
       </header>
       <Form>
